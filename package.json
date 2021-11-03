@@ -1,0 +1,23 @@
+{
+  "name": "Frontend-Backend-Test",
+  "version": "1.0.0",
+  "description": "Just for testing React.js / Express.js fullstack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalyshV/Frontend-Backend-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalyshV/Frontend-Backend-Test/issues"
+  },
+  "homepage": "https://github.com/MalyshV/Frontend-Backend-Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
